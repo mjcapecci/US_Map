@@ -13,45 +13,18 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   enable_background="new 0 0 1000 589"
-   height="589px"
    pretty_print="True"
    style="stroke-linejoin: round; stroke: #fff; fill: none;"
    version="1.1"
-   viewBox="0 0 1000 589"
+   viewBox="200 0 730 650"
    width="1000px"
    id="svg"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="us.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     id="namedview69"
-     showgrid="false"
-     inkscape:zoom="0.80893016"
-     inkscape:cx="817.66365"
-     inkscape:cy="409.3738"
-     inkscape:window-x="1192"
-     inkscape:window-y="118"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="style6">path { fill-rule: evenodd; }</style>
-  </defs>
+
   <metadata
      id="metadata8">
-    <views
+    <!-- <views
        id="views10">
       <view
          h="589.235294118"
@@ -78,7 +51,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title />
       </cc:Work>
-    </rdf:RDF>
+    </rdf:RDF> -->
   </metadata>
   <path
      inkscape:connector-curvature="0"
